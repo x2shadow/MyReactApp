@@ -27,7 +27,7 @@ class NewCard extends React.Component{
         return (
             <div>
                 <h1 style={{textAlign:'center'}}>New Card</h1>
-                <div style={{border:'1px black solid', width:'fit-content', height:'fit-content', margin:'auto', paddingBottom:'20px'}}>
+                <div style={{border:'1px black solid', width:'fit-content', height:'fit-content', paddingBottom:'20px'}}>
                     <form>
                         <div style={{padding:'30px 30px'}}>
                             <input

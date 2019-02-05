@@ -29,7 +29,7 @@ class EditCard extends React.Component{
         return(
             <div>
                 <h1 style={{textAlign:'center'}}>Card Info</h1>
-                <div style={{border:'1px black solid', width:250, height:200, margin:'auto'}}>
+                <div style={{border:'1px black solid', width:'fit-content', height:'fit-content', margin:'auto', paddingBottom:'50px'}}>
                     <form>
                         <div style={{padding:'30px 30px'}}>
                             <input
